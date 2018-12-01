@@ -1,0 +1,7 @@
+name = "AdventOfCode"
+uuid = "6341d75e-f52c-11e8-2d72-f58711c9a217"
+authors = ["daholland "]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
