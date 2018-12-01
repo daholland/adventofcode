@@ -1,8 +1,6 @@
 module Dec01
     using DelimitedFiles
 
-    export puzzle1
-
     function puzzle1()
         freqs = readdlm("data/01_1.input")
 
